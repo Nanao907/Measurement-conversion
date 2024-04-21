@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    font-family: "Jacquard 24", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+
+}
+footer {
+    background-color: #554d51;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+}
+h3 {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+    font-family: "Jacquard 24", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    }
+button {
+            padding: 10px 20px;
+            background-color: #c0abb5;
+            color: #000;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            font-family: "Jacquard 24", system-ui;
+            font-weight: 400;
+            font-style: normal;
+        }
+    
+    button:hover {
+            background-color: #b4a6b7;
+        }
